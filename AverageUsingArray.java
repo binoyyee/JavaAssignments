@@ -5,7 +5,7 @@ import java.util.*;
 public class Main {
 
     public static void main(String[] args) {
-        //Check whether a string is palindrome or not
+        //Find average using arrays
         double[] arr = {19, 12.89, 16.5, 200, 13.7};
         double total = 0;
 
